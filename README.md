@@ -1,7 +1,6 @@
 # CSE 190D Project 1 Test Suite
 
-## Note: I am not responsible for your project failing to compile or anything
-because of this test suite. Use this test suite at your own discretion.
+## Warning: I am not responsible for your project failing to compile or anything because of this test suite. Use this test suite at your own discretion.
 
 ## Installation
 
